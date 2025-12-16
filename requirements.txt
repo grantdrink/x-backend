@@ -14,5 +14,4 @@ ftfy
 clean-text
 unidecode
 edge-tts
-TTS>=0.22.0
 pydub
