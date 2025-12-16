@@ -9,7 +9,7 @@ pdf2image==1.17.0
 Pillow>=10.4.0
 Werkzeug==3.0.1
 spacy==3.8.11
-numpy<2.0.0
+numpy>=1.24.0,<2.0.0
 ftfy
 clean-text
 unidecode
